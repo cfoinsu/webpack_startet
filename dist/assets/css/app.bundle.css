@@ -1,0 +1,8 @@
+h1 {
+  color: blue; }
+
+.fa-home {
+  display: inline-block;
+  background: url(assets/images/img1.jpg) no-repeat;
+  width: 200px;
+  height: 200px; }
